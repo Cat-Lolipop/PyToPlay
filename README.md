@@ -1,2 +1,2 @@
 # PyToPlay
-Wechat can be your Keyboard 
+Wechat can be your Keyboard (MC only)
